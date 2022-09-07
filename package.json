@@ -1,0 +1,14 @@
+{
+  "name": "zksnark-template",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circom": "^0.5.46",
+    "snarkjs": "^0.4.26"
+  }
+}

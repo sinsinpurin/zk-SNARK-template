@@ -1,0 +1,6 @@
+# Circuit file name
+CIRCUIT_NAME=""
+
+BEACON_HASH=""
+
+ZKEY_BEACON_HASH=""
